@@ -9,7 +9,7 @@
 Play a song in Spotify, Yandex.Music or Apple Music. Vibeo finds its official music video and plays it.
 When the video ends, your player moves on to the next track, and the next video starts.
 
-**[Download Vibeo 0.1.1 for Mac](../../releases/latest)**
+**[Download Vibeo 0.1.2 for Mac](../../releases/latest)**
 
 <img src="docs/video.jpg" alt="Vibeo playing the official a-ha “Take On Me” video while Yandex.Music is paused" width="860">
 
@@ -38,8 +38,8 @@ When the video ends, your player moves on to the next track, and the next video 
 ## Install
 
 1. Download the disk image for your Mac:
-   - **Apple Silicon** (M1 and newer): `Vibeo-0.1.1-arm64.dmg`
-   - **Intel**: `Vibeo-0.1.1-x64.dmg`
+   - **Apple Silicon** (M1 and newer): `Vibeo-0.1.2-arm64.dmg`
+   - **Intel**: `Vibeo-0.1.2-x64.dmg`
 
    Not sure which one? Apple menu → About This Mac: “Chip: Apple M…” is Apple Silicon, “Processor: Intel” is Intel.
 2. Open the dmg and drag **Vibeo** into **Applications**. Start it from Applications, not from the disk image: only an installed copy can update itself.
